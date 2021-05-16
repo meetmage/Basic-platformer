@@ -1,2 +1,2 @@
 # Basic-platformer
-Just something i wanted to see if i can get running
+Usuing the basic pygame tools given, this is my attempt at a function platformer with proper colisions and movement
