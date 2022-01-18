@@ -1,2 +1,2 @@
 # Basic-platformer
-Usuing the basic pygame tools given, this is my attempt at a function platformer with proper colisions and movement
+used Python library Pygame to demonstrate object oriented programming through a functional platformer with working collisions where the agent can interact with data map generated terrain.
